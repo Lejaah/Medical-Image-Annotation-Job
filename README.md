@@ -4,4 +4,5 @@ Your goal, as a product owner is to build a product that helps doctors quickly i
 * Can help flag serious cases
 * Quickly identify healthy cases
 * And, generally, act as a diagnostic aid for doctors
-As such, this project is designed to test your ability to build a labeled dataset that distinguishes between healthy and pneumonia x-ray images; this can be used by ML engineers later on down the line to build a classification product. Your main task will be to create a data labeling job using Appen's platform. If you have not yet, you'll need to create an Appen account and login to complete this project.
+
+As such, this project is designed to test your ability to build a labeled dataset that distinguishes between healthy and pneumonia x-ray images; this can be used by ML engineers later on down the line to build a classification product. Your main task will be to create a data labeling job using [Appen's platform](https://client.appen.com/jobs).
